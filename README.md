@@ -1,2 +1,3 @@
 # maven-surefire-bom
-A parent pom for arranging unit test configuration via maven surefire plugin
+A simple pom file to facilitate unit-integration tests configuration for the maven surefire plugin
+
